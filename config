@@ -1,5 +1,0 @@
-Host github.com
-  User git
-  IdentityFile /dev/null
-  IdentitiesOnly yes
-
